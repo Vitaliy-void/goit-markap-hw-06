@@ -599,7 +599,7 @@ address {
     color: #f4f4fd;
 } */
 
-.footer-label {
+/* .footer-label {
     margin-left: 80px;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -651,7 +651,7 @@ address {
     width: 24px;
     height: 24px;
     fill: #fff;
-}
+} */
 .backdrop {
     position: fixed;
     top: 0;
